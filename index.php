@@ -1,1 +1,1 @@
-hello,小白！
+<?php echo "Hello~小白！"; ?>
